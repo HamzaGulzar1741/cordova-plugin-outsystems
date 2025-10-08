@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="cordova-plugin-outsystems" version="1.0.0"
+        xmlns="http://apache.org/cordova/ns/plugins"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>Outsystems Cordova Plugin</name>
+    <description>Cordova plugin template for Outsystems integration.</description>
+    <license>MIT</license>
+    <keywords>cordova,plugin,outsystems</keywords>
+    <js-module src="www/OutsystemsPlugin.js" name="OutsystemsPlugin">
+        <clobbers target="cordova.plugins.OutsystemsPlugin" />
+    </js-module>
+    <!-- Platform-specific code will be added later -->
+</plugin>

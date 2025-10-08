@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-outsystems",
+  "version": "1.0.0",
+  "description": "Cordova plugin template for Outsystems integration.",
+  "main": "www/OutsystemsPlugin.js",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "outsystems"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
